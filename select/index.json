@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "SICKS...?",
+  "base_artist": "鯨木",
+  "createdAt": "2026-02-20T12:40:38.515351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SickS ckS",
+      "artist": "Seiko Oomori",
+      "has_synced": true,
+      "path": "select/01_SickS_ckS_Seiko_Oomori.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SickS ckS",
+      "artist": "大森靖子",
+      "has_synced": true,
+      "path": "select/02_SickS_ckS_大森靖子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WELCOME SICKS (feat. YUI / CV : Soma Saito, RIO / CV : Yuma Uchida, MEGU / CV : Tetsuya Kakihara, DAI / CV : Toshiki Masuda & Hone",
+      "artist": "Full Throttle4",
+      "has_synced": true,
+      "path": "select/03_WELCOME_SICKS_(feat._YUI___CV___Soma_Saito,_RIO___CV___Yuma_Uchida,_MEGU___CV____Full_Throttle4.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WELCOME SICKS (feat. YUI / CV : Soma Saito, RIO / CV : Yuma Uchida, MEGU / CV : Tetsuya Kakihara, DAI / CV : Toshiki Masuda & HoneyWorks)",
+      "artist": "Full Throttle4",
+      "has_synced": true,
+      "path": "select/04_WELCOME_SICKS_(feat._YUI___CV___Soma_Saito,_RIO___CV___Yuma_Uchida,_MEGU___CV____Full_Throttle4.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SICKS...?",
+      "artist": "鯨木",
+      "has_synced": false,
+      "path": "select/pl_01_SICKS..._鯨木.txt"
+    }
+  ]
+}
